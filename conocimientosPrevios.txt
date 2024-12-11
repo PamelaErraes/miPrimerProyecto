@@ -1,2 +1,4 @@
 Mis 3 conocimientos previos
 1. Bases de datos: Entender bases de datos relacionales (MySQL) y no relacionales (MongoDB) es clave para gestionar el almacenamiento y la consulta eficiente de datos en tus aplicaciones.
+2 Por ejemplo Conocer cómo funcionan las bases de datos relacionales, las tablas, las relaciones (uno a muchos, muchos a muchos), 
+y cómo hacer consultas SQL básicas (SELECT, INSERT, UPDATE, DELETE).
