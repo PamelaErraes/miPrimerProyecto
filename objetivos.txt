@@ -1,0 +1,4 @@
+Mis Objetivos:
+1. Conocer a fondo los lenguajes necesarios para la programación web (HTML5, CSS3, JavaScript)
+2. Desarrollo avanzado de web con Vanilla JS y Frameworks de Front End (Angular, Express JS)
+3. Optimizar y administrar bases de datos, mejorando el rendimiento y la seguridad en MySQL y MongoDB
