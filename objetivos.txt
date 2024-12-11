@@ -1,2 +1,3 @@
 Mis Objetivos:
 1. Conocer a fondo los lenguajes necesarios para la programación web (HTML5, CSS3, JavaScript)
+2. Desarrollo avanzado de web con Vanilla JS y Frameworks de Front End (Angular, Express JS)
